@@ -17,10 +17,8 @@
 
 #### Datos
 
-#### Recursos
-SQL en BigQuery
-Python
-Looker Studio
+#### Herramientas
+SQL en BigQuery, Python y Looker Studio.
 
 #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
