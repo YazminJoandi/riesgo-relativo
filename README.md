@@ -14,7 +14,14 @@
 ## Introducción
 
 ## Metodología
+
 #### Datos
+
+#### Recursos
+SQL en BigQuery
+Python
+Looker Studio
+
 #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
 ## Resultados
